@@ -2,7 +2,7 @@
 # starting a new project and virtual environment in VS Code
 # 1) open a new folder in VS Code
 # 2) create main.py
-# 3) in the terminal run: python3 -m venv .my_python_venv
+# 3) in the terminal run: python3 -m venv .my_venv
 # 4) install packages in the virtual environment
 # pip install numpy
 # pip install pandas
